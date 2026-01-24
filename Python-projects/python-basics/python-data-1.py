@@ -1,4 +1,4 @@
-#A show of the basic syntax of python
+#python-data-1 is the first in a series that will go through syntax and the basics of python coding language!
 print("Hello, World!")
 #The print function is used to print data to the console. 
 #Its how to output data to the user.
